@@ -1,1 +1,3 @@
-Hello JMonDev
+Hello JMonDev!
+
+This is the second line on my notepad to check the git diff command.
